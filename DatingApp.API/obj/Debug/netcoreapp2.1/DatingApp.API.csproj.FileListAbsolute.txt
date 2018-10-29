@@ -1,0 +1,14 @@
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\mvltsevinc\Desktop\webapi\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
